@@ -1,0 +1,11 @@
+no. of Chris training emails: 7936
+no. of Sara training emails: 7884
+0.973833902162
+features_train
+15820
+features_test
+1758
+labels_train
+15820
+labels_test
+1758
